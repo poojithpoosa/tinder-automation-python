@@ -3,7 +3,7 @@
 This is tinder automation using python.
 prerequisite:
  install selenium for python  command : pip install selenium
- look for your own webdriver as per your os requirement from this like : https://www.selenium.dev/documentation/en/getting_started_with_webdriver/third_party_drivers_and_plugins/
+look for your own webdriver as per your os requirement from this like : https://www.selenium.dev/documentation/en/getting_started_with_webdriver/third_party_drivers_and_plugins/
  
  There are 2 funtions :
  login funtion and like_dislike function:
