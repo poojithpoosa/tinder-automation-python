@@ -18,3 +18,5 @@ example: login('xxx@gmail.com','*****')
 in like_dislike function you need to provide count of likes.
  
  example : like_dislike(n=20,driver)
+
+NOTE: place the chromedriver.exe in your working path
